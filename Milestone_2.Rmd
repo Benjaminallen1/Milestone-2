@@ -1,0 +1,55 @@
+---
+title: 'Milestone #2'
+author: "Benjamin Allen"
+date: "9/23/2020"
+output: html_document
+---
+Repo Link: https://github.com/Benjaminallen1/Milestone-2
+```{r setup, include=FALSE}
+```
+#1st Project: "In the Time of Corona Virus" by Jessica Wu
+
+  #While looking at Jessica's work, I would first look at some cons, or weak 
+  #spots in her data collection. While looking over her data charts, I noticed
+  #that her demographic data comes from 2013, while being correlated to 
+  #coronavirus data from 2020. This large gap in the two data sets makes me 
+  #question just how accurate her correlation between them. While there could be
+  #a correlation between Black American demographics and coronavirus, the time 
+  #difference makes it questionable. As there is more recent demographic data, I 
+  #would reference that data instead of data from 2013. The second con I see is 
+  #in her long distance graph. While I fully belief the data to be accurate, 
+  #labelling it as simply people who googled the term "long distance" and not as
+  #"long distance relationship" would better support her argument that more 
+  #people searched about long distance relationship advice. Two pros about her 
+  #project would be about how her data is presented to the reader. She has 
+  #fantastic graphs that are legible and accessible to anyone who views her 
+  #data. The second pro of her work would be how she has an interactive graph 
+  #that shows the relation between median income, percent without health 
+  #insurance, and number of coronavirus per state. This allows the reader to not
+  #only see the correlation, but also select any state data set that they want.
+  
+#2nd Project:"Analyzing the Relationships Between Vote-Switching & Demographics,
+#Policy Positions, and Public Opinion" by David Sutton 
+  #While reviewing his project for cons I noticed that there seems to be a lot
+  #of raw date present in the project. While the reader can read, having more 
+  #graphics that summarize his data would be better. The second con would be 
+  #correlation causes causation in his "life events" tab. While getting a 
+  #traffic ticket might be a serious life event, I wouldn't say there would be a 
+  #correlation between some of the events and becoming a vote switcher. While 
+  #getting a ticket might be a big life event to some, drawing a correlation
+  #between getting a ticket and changing who you vote for. While looking for 
+  #pros I liked the interactive graphs he had on every page. Being able so 
+  #cither throught the data allows the reader to analyze all aspects of the data
+  #set. The second pro I saw was the variety of individuals in the data set. 
+  #Having a wide range of individuals is important to prevent any one group to 
+  #skew the data and is a good way to minimiaze the casual effect present in the
+  #data set. 
+  
+
+
+
+
+
+
+
+
